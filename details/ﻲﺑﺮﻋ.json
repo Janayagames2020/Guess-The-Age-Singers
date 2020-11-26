@@ -2,8 +2,9 @@
     "tasksData": [
         {
             "name": "Choose the right age",
-            "localizedName": "Wählen Sie das richtige Alter",
+            "localizedName": "ﺢﻴﺤﺼﻟﺍ ﺮﻤﻌﻟﺍ ﺮﺘﺧﺍ",
             "gameType": 5,
+            "useMixedTypes": false,
             "orderNumber": 2,
             "Levels": [
                 {
@@ -16,6 +17,7 @@
                         "24",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -28,6 +30,7 @@
                         "39",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -40,6 +43,7 @@
                         "33",
                         "35"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -52,18 +56,20 @@
                         "33",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
                     "number": 5,
                     "rightAnswer": "51",
-                    "imageText": "Jennifer lopez",
+                    "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [
                         "45",
                         "48",
                         "52"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -76,6 +82,7 @@
                         "68",
                         "70"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -88,6 +95,7 @@
                         "31",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -100,6 +108,7 @@
                         "29",
                         "31"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -112,6 +121,7 @@
                         "37",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -124,6 +134,7 @@
                         "44",
                         "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -136,6 +147,7 @@
                         "33",
                         "35"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -148,6 +160,7 @@
                         "20",
                         "21"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -160,6 +173,7 @@
                         "24",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -172,6 +186,7 @@
                         "32",
                         "34"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -184,6 +199,7 @@
                         "24",
                         "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -196,6 +212,7 @@
                         "30",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -208,6 +225,7 @@
                         "29",
                         "31"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -220,6 +238,7 @@
                         "35",
                         "37"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -228,10 +247,11 @@
                     "imageText": "Britney Spears",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "32",
+                        "40",
                         "34",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -244,6 +264,7 @@
                         "22",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -256,6 +277,7 @@
                         "47",
                         "51"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -268,6 +290,7 @@
                         "28",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -280,6 +303,7 @@
                         "30",
                         "31"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -292,6 +316,7 @@
                         "37",
                         "38"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -304,6 +329,7 @@
                         "24",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -316,6 +342,7 @@
                         "40",
                         "42"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -328,6 +355,7 @@
                         "27",
                         "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -340,6 +368,7 @@
                         "24",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -348,10 +377,11 @@
                     "imageText": "Avril Lavigne",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "30",
-                        "33",
+                        "34",
+                        "35",
                         "37"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -360,10 +390,11 @@
                     "imageText": "Travis Scott",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "25",
                         "29",
-                        "31"
+                        "27",
+                        "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -372,10 +403,11 @@
                     "imageText": "Shakira",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "38",
-                        "39",
-                        "41"
+                        "40",
+                        "41",
+                        "42"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -384,10 +416,11 @@
                     "imageText": "Troye Sivan",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "20",
-                        "21",
-                        "23"
+                        "24",
+                        "23",
+                        "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -396,10 +429,11 @@
                     "imageText": "Anne Marie",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "26",
-                        "30",
-                        "24"
+                        "28",
+                        "27",
+                        "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -412,6 +446,7 @@
                         "44",
                         "45"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -424,6 +459,7 @@
                         "31",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -436,6 +472,7 @@
                         "50",
                         "54"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -448,6 +485,7 @@
                         "28",
                         "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -456,10 +494,11 @@
                     "imageText": "Post Malone",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "23",
+                        "24",
                         "26",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -472,6 +511,7 @@
                         "35",
                         "39"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -484,6 +524,7 @@
                         "43",
                         "44"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -496,6 +537,7 @@
                         "26",
                         "29"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -508,6 +550,7 @@
                         "42",
                         "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -520,6 +563,7 @@
                         "36",
                         "40"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -532,6 +576,7 @@
                         "26",
                         "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -544,6 +589,7 @@
                         "26",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -556,6 +602,7 @@
                         "41",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -568,6 +615,7 @@
                         "29",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -580,6 +628,7 @@
                         "33",
                         "34"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -592,6 +641,7 @@
                         "50",
                         "53"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -604,6 +654,7 @@
                         "42",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -616,6 +667,7 @@
                         "20",
                         "21"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -628,6 +680,7 @@
                         "23",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -640,6 +693,7 @@
                         "36",
                         "38"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -652,6 +706,7 @@
                         "31",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -664,6 +719,7 @@
                         "27",
                         "29"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -676,6 +732,7 @@
                         "32",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -688,6 +745,7 @@
                         "31",
                         "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -700,6 +758,7 @@
                         "43",
                         "44"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -712,6 +771,7 @@
                         "36",
                         "37"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -720,10 +780,11 @@
                     "imageText": "Pusha T",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "40",
+                        "42",
                         "44",
                         "45"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -736,6 +797,7 @@
                         "35",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -748,6 +810,7 @@
                         "21",
                         "23"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -760,6 +823,7 @@
                         "25",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -772,6 +836,7 @@
                         "42",
                         "44"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -784,6 +849,7 @@
                         "18",
                         "19"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -796,6 +862,7 @@
                         "36",
                         "38"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -805,9 +872,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "32",
-                        "34",
-                        "35"
+                        "33",
+                        "34"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -820,6 +888,7 @@
                         "45",
                         "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -828,10 +897,11 @@
                     "imageText": "Daya",
                     "imageDescription": "",
                     "wrongAnswers": [
+                        "20",
                         "21",
-                        "24",
-                        "25"
+                        "23"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -841,9 +911,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "32",
-                        "34",
-                        "35"
+                        "35",
+                        "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -852,10 +923,11 @@
                     "imageText": "Kelly Clarkson",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "35",
-                        "33",
-                        "40"
+                        "39",
+                        "40",
+                        "41"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -868,6 +940,7 @@
                         "26",
                         "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -880,6 +953,7 @@
                         "36",
                         "39"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -892,6 +966,7 @@
                         "26",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -904,6 +979,7 @@
                         "30",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -916,6 +992,7 @@
                         "28",
                         "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -928,6 +1005,7 @@
                         "31",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -940,6 +1018,7 @@
                         "34",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -948,10 +1027,11 @@
                     "imageText": "Tove Lo",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "32",
-                        "31",
-                        "34"
+                        "34",
+                        "35",
+                        "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -964,6 +1044,7 @@
                         "24",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -976,6 +1057,7 @@
                         "22",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -988,6 +1070,7 @@
                         "32",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1000,6 +1083,7 @@
                         "27",
                         "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1012,6 +1096,7 @@
                         "43",
                         "41"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1024,6 +1109,7 @@
                         "33",
                         "34"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1032,10 +1118,11 @@
                     "imageText": "Alec Benjamin",
                     "imageDescription": "",
                     "wrongAnswers": [
+                        "24",
                         "25",
-                        "22",
-                        "23"
+                        "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1048,6 +1135,7 @@
                         "31",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1060,6 +1148,7 @@
                         "28",
                         "29"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1072,6 +1161,7 @@
                         "20",
                         "21"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1084,6 +1174,7 @@
                         "34",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1096,6 +1187,7 @@
                         "31",
                         "32"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1105,9 +1197,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "34",
-                        "33",
-                        "36"
+                        "36",
+                        "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1120,6 +1213,7 @@
                         "44",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1132,6 +1226,7 @@
                         "23",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1144,6 +1239,7 @@
                         "23",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1156,6 +1252,7 @@
                         "32",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1168,6 +1265,7 @@
                         "21",
                         "22"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1180,6 +1278,7 @@
                         "33",
                         "35"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1192,6 +1291,7 @@
                         "56",
                         "57"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1202,8 +1302,9 @@
                     "wrongAnswers": [
                         "25",
                         "27",
-                        "28"
+                        "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1216,6 +1317,7 @@
                         "52",
                         "53"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1228,6 +1330,7 @@
                         "25",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1240,6 +1343,7 @@
                         "72",
                         "73"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1252,6 +1356,7 @@
                         "29",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1264,6 +1369,7 @@
                         "26",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1274,8 +1380,9 @@
                     "wrongAnswers": [
                         "32",
                         "33",
-                        "35"
+                        "34"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1288,6 +1395,7 @@
                         "79",
                         "81"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1300,6 +1408,7 @@
                         "24",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1312,6 +1421,7 @@
                         "40",
                         "42"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1324,6 +1434,7 @@
                         "25",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1336,6 +1447,7 @@
                         "39",
                         "41"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1348,6 +1460,7 @@
                         "30",
                         "33"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1360,6 +1473,7 @@
                         "37",
                         "38"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1372,6 +1486,7 @@
                         "49",
                         "51"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1384,6 +1499,7 @@
                         "42",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1396,6 +1512,7 @@
                         "38",
                         "39"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1408,6 +1525,7 @@
                         "24",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1420,6 +1538,7 @@
                         "44",
                         "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1432,6 +1551,7 @@
                         "30",
                         "31"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1444,6 +1564,7 @@
                         "23",
                         "25"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1456,6 +1577,7 @@
                         "47",
                         "48"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1468,6 +1590,7 @@
                         "25",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1480,6 +1603,7 @@
                         "44",
                         "45"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1492,6 +1616,7 @@
                         "53",
                         "55"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1504,6 +1629,7 @@
                         "25",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1516,6 +1642,7 @@
                         "20",
                         "22"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1528,6 +1655,7 @@
                         "28",
                         "29"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1540,6 +1668,7 @@
                         "34",
                         "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1552,6 +1681,7 @@
                         "37",
                         "39"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1564,6 +1694,7 @@
                         "26",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1576,6 +1707,7 @@
                         "46",
                         "48"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1586,8 +1718,9 @@
                     "wrongAnswers": [
                         "33",
                         "34",
-                        "31"
+                        "36"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1600,6 +1733,7 @@
                         "51",
                         "53"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1612,6 +1746,7 @@
                         "23",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1624,6 +1759,7 @@
                         "42",
                         "44"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1636,6 +1772,7 @@
                         "22",
                         "26"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1646,8 +1783,9 @@
                     "wrongAnswers": [
                         "35",
                         "37",
-                        "39"
+                        "38"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1656,10 +1794,11 @@
                     "imageText": "Perrie Edwards",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "24",
-                        "23",
-                        "26"
+                        "25",
+                        "29",
+                        "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1669,9 +1808,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "29",
-                        "31",
-                        "33"
+                        "30",
+                        "31"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1684,6 +1824,7 @@
                         "22",
                         "23"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1693,9 +1834,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "25",
-                        "28",
-                        "27"
+                        "27",
+                        "28"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1705,9 +1847,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "42",
-                        "46",
-                        "44"
+                        "44",
+                        "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1720,6 +1863,7 @@
                         "28",
                         "29"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1732,18 +1876,20 @@
                         "23",
                         "24"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
                     "number": 145,
                     "rightAnswer": "28",
-                    "imageText": "ozuna",
+                    "imageText": "Ozuna",
                     "imageDescription": "",
                     "wrongAnswers": [
                         "25",
                         "24",
                         "27"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1753,9 +1899,10 @@
                     "imageDescription": "",
                     "wrongAnswers": [
                         "22",
-                        "20",
-                        "21"
+                        "21",
+                        "20"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1768,6 +1915,7 @@
                         "42",
                         "43"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1776,10 +1924,11 @@
                     "imageText": "Ariana Grande",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "22",
+                        "28",
                         "24",
-                        "28"
+                        "22"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1792,6 +1941,7 @@
                         "47",
                         "46"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 },
                 {
@@ -1804,14 +1954,16 @@
                         "29",
                         "30"
                     ],
+                    "gameType": 5,
                     "cost": 0
                 }
             ]
         },
         {
             "name": "Guess The Age",
-            "localizedName": "Erraten Sie das Alter",
-            "gameType": 4,
+            "localizedName": "ﺮﻤﻌﻟﺍ ﻥّﻤﺧ",
+            "gameType": 0,
+            "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
                 {
@@ -1819,11 +1971,8 @@
                     "rightAnswer": "48",
                     "imageText": "Eminem",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
+                    "gameType": 0,
                     "cost": 20
                 },
                 {
@@ -1831,11 +1980,8 @@
                     "rightAnswer": "31",
                     "imageText": "Taylor Swift",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
+                    "gameType": 0,
                     "cost": 20
                 },
                 {
@@ -1843,11 +1989,8 @@
                     "rightAnswer": "45",
                     "imageText": "Enrique Iglesias",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
+                    "gameType": 0,
                     "cost": 20
                 },
                 {
@@ -1855,11 +1998,8 @@
                     "rightAnswer": "27",
                     "imageText": "Ariana Grande",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
+                    "gameType": 0,
                     "cost": 20
                 },
                 {
@@ -1867,1152 +2007,864 @@
                     "rightAnswer": "39",
                     "imageText": "Pitbull",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 6,
                     "rightAnswer": "23",
                     "imageText": "Becky G",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 7,
                     "rightAnswer": "47",
                     "imageText": "Pharrell Williams",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 8,
                     "rightAnswer": "21",
                     "imageText": "Sabrina Carpenter",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 9,
                     "rightAnswer": "31",
                     "imageText": "Joe Jonas",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 10,
                     "rightAnswer": "52",
                     "imageText": "Kylie Minogue",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 11,
                     "rightAnswer": "28",
-                    "imageText": "ozuna",
+                    "imageText": "Ozuna",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 12,
                     "rightAnswer": "62",
                     "imageText": "Madonna",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 13,
                     "rightAnswer": "29",
                     "imageText": "Charlie Puth",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 14,
                     "rightAnswer": "32",
                     "imageText": "Lizzo",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 15,
                     "rightAnswer": "35",
                     "imageText": "J Balvin",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 16,
                     "rightAnswer": "26",
                     "imageText": "Ava Max",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 17,
                     "rightAnswer": "35",
                     "imageText": "Blanco Brown",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 18,
                     "rightAnswer": "32",
                     "imageText": "Kacey Musgraves",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 19,
                     "rightAnswer": "24",
                     "imageText": "Lewis Capaldi",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 20,
                     "rightAnswer": "37",
                     "imageText": "Carrie Underwood",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 21,
                     "rightAnswer": "34",
                     "imageText": "Drake",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 22,
                     "rightAnswer": "25",
                     "imageText": "Melanie Martinez",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 23,
                     "rightAnswer": "31",
                     "imageText": "Chris Brown",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 24,
                     "rightAnswer": "45",
                     "imageText": "Sia Furler",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 25,
                     "rightAnswer": "27",
                     "imageText": "Niall Horan",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 26,
                     "rightAnswer": "39",
                     "imageText": "Kelly Rowland",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 27,
                     "rightAnswer": "46",
                     "imageText": "James Blunt",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 28,
                     "rightAnswer": "25",
                     "imageText": "Dua Lipa",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 29,
                     "rightAnswer": "52",
                     "imageText": "Marc Anthony",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 30,
                     "rightAnswer": "24",
                     "imageText": "Sigrid",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 31,
                     "rightAnswer": "38",
                     "imageText": "Lil Wayne",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 32,
                     "rightAnswer": "52",
                     "imageText": "Celine Dion",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 33,
                     "rightAnswer": "28",
                     "imageText": "Sam Smith",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 34,
                     "rightAnswer": "29",
                     "imageText": "Ari Lennox",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 35,
                     "rightAnswer": "43",
                     "imageText": "John Mayer",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 36,
                     "rightAnswer": "21",
                     "imageText": "Noah Cyrus",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 37,
                     "rightAnswer": "49",
                     "imageText": "Ricky Martin",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 38,
                     "rightAnswer": "27",
                     "imageText": "Perrie Edwards",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 39,
                     "rightAnswer": "45",
                     "imageText": "DJ Khaled",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 40,
                     "rightAnswer": "28",
                     "imageText": "Cardi B",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 41,
                     "rightAnswer": "27",
                     "imageText": "George Ezra",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 42,
                     "rightAnswer": "26",
                     "imageText": "Halsey",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 43,
                     "rightAnswer": "26",
                     "imageText": "Harry Styles",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 44,
                     "rightAnswer": "33",
                     "imageText": "Kesha",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 45,
                     "rightAnswer": "87",
                     "imageText": "Willie Nelson",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 46,
                     "rightAnswer": "43",
                     "imageText": "Ludacris",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 47,
                     "rightAnswer": "30",
                     "imageText": "Rita Ora",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 48,
                     "rightAnswer": "48",
                     "imageText": "Sean Paul",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 49,
                     "rightAnswer": "24",
                     "imageText": "Normani",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 50,
                     "rightAnswer": "30",
                     "imageText": "The Weeknd",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 51,
                     "rightAnswer": "28",
                     "imageText": "Tori Kelly",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 52,
                     "rightAnswer": "21",
                     "imageText": "Lil Nas X",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 53,
                     "rightAnswer": "35",
                     "imageText": "Janelle Monae",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 54,
                     "rightAnswer": "31",
                     "imageText": "G-Easy",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 55,
                     "rightAnswer": "41",
                     "imageText": "Pink",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 56,
                     "rightAnswer": "51",
                     "imageText": "Sean Combs",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 57,
                     "rightAnswer": "35",
                     "imageText": "Carly Rae Jepsen",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 58,
                     "rightAnswer": "44",
                     "imageText": "Luke Bryan",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 59,
                     "rightAnswer": "21",
                     "imageText": "Madison Beer",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 60,
                     "rightAnswer": "71",
                     "imageText": "Lionel Richie",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 61,
                     "rightAnswer": "27",
                     "imageText": "rosalía",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 62,
                     "rightAnswer": "36",
                     "imageText": "Chris Lane",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 63,
                     "rightAnswer": "28",
-                    "imageText": "Charli XCX",
+                    "imageText": "Chris Lane",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 64,
                     "rightAnswer": "29",
                     "imageText": "Louis Tomlinson",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 65,
                     "rightAnswer": "50",
                     "imageText": "Mary J. Blige",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 66,
                     "rightAnswer": "28",
                     "imageText": "Pink Sweats",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 67,
                     "rightAnswer": "30",
                     "imageText": "SZA",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 68,
                     "rightAnswer": "45",
                     "imageText": "Michael Buble",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 69,
                     "rightAnswer": "37",
                     "imageText": "Miranda Lambert",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 70,
                     "rightAnswer": "31",
                     "imageText": "Jess Glynne",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 71,
                     "rightAnswer": "49",
                     "imageText": "Snoop Dogg",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 72,
                     "rightAnswer": "31",
                     "imageText": "Mary Lambert",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 73,
                     "rightAnswer": "31",
                     "imageText": "Justin Moore",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 74,
                     "rightAnswer": "29",
                     "imageText": "Hayley Kiyoko",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 75,
                     "rightAnswer": "55",
                     "imageText": "Dr Dre",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 76,
                     "rightAnswer": "23",
                     "imageText": "Gabriella Wilson",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 77,
                     "rightAnswer": "40",
                     "imageText": "Nick Carter",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 78,
                     "rightAnswer": "50",
                     "imageText": "Chely Wright",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 79,
                     "rightAnswer": "41",
                     "imageText": "The Game",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 80,
                     "rightAnswer": "32",
                     "imageText": "Banks",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 81,
                     "rightAnswer": "26",
                     "imageText": "Maluma",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 82,
                     "rightAnswer": "63",
                     "imageText": "Gloria Estefan",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 83,
                     "rightAnswer": "20",
                     "imageText": "Lil Pump",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 84,
                     "rightAnswer": "30",
                     "imageText": "Maren Morris",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 85,
                     "rightAnswer": "26",
                     "imageText": "Lauv",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 86,
                     "rightAnswer": "27",
                     "imageText": "Liam Payne",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 87,
                     "rightAnswer": "24",
                     "imageText": "Alessia Cara",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 88,
                     "rightAnswer": "78",
                     "imageText": "Paul McCartney",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 89,
                     "rightAnswer": "26",
                     "imageText": "Ella Mai",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 90,
                     "rightAnswer": "44",
                     "imageText": "Rick Ross",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 91,
                     "rightAnswer": "19",
-                    "imageText": "Billie Eilish",
+                    "imageText": "Rick Ross",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 92,
                     "rightAnswer": "33",
                     "imageText": "Brendon Urie",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 93,
                     "rightAnswer": "37",
                     "imageText": "Miranda Lambert",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 94,
                     "rightAnswer": "45",
                     "imageText": "50 Cent",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 95,
                     "rightAnswer": "26",
                     "imageText": "Maggie Rogers",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 96,
                     "rightAnswer": "28",
                     "imageText": "6lack",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 97,
                     "rightAnswer": "34",
                     "imageText": "Ellie Goulding",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 98,
                     "rightAnswer": "22",
                     "imageText": "Khalid",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 99,
                     "rightAnswer": "25",
                     "imageText": "Sofia Reyes",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 },
                 {
                     "number": 100,
                     "rightAnswer": "29",
                     "imageText": "Quavo",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
-                    "cost": 20
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         }
@@ -3020,187 +2872,195 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "abspielen"
+            "value": "ﺐﻌﻟﺇ"
         },
         {
             "key": 1,
-            "value": "info"
+            "value": "ﺕﺎﻣﻮﻠﻌﻣ"
         },
         {
             "key": 2,
-            "value": "verlassen"
+            "value": "ﺝﻭﺮﺧ"
         },
         {
             "key": 3,
-            "value": "zurück"
+            "value": "ﻉﻮﺟﺭ"
         },
         {
             "key": 4,
-            "value": "Machen Sie sich bereit, einige Bildrätsel zu lösen! Steckenbleiben? Verwenden Sie unterschiedliche Hinweise! Verdiene Münzen, indem du Aufgaben erledigst oder kurze ADs ansiehst! genießen!"
+            "value": "ﺾﻌﺑ ﻞﺤﻟ ﺪﻌﺘﺳﺍ ﻡﺪﺨﺘﺳﺍ؟ﺖﻘﻠﻋ!ﺯﺎﻐﻟﻷﺍ ﺐﺴﻛﺍ!ﺔﻔﻠﺘﺨﻣ ﺕﺎﺤﻴﻤﻠﺗ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺩﻮﻘﻨﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻝﺎﻤﻜﺘﺳﺍ ﻝﻼﺧ ﺓﺪﻫﺎﺸﻣ ﻖﻳﺮﻃ ﻦﻋﻭﺃ !ﻊﺘﻤﺘﺳﺇ!ﺓﺮﻴﺼﻗ ﻊﻃﺎﻘﻣ"
         },
         {
             "key": 5,
-            "value": "Verschlossen"
+            "value": "ﻖﻠﻐﻣ"
         },
         {
             "key": 6,
-            "value": "Einen Zahl Öffnen"
+            "value": "ﻢﻗﺭ ﻒﺸﻛﺍ"
         },
         {
             "key": 7,
-            "value": "Zahlen entfernen"
+            "value": "ﺓﺪﺋﺍﺰﻟﺍ ﻡﺎﻗﺭﻷﺍ ﻑﺬﺣ"
         },
         {
             "key": 8,
-            "value": "Eine Antwort bekommen"
+            "value": "ﺔﺑﺎﺟﻹﺍ ﻰﻠﻋ ﻞﺼﺣﺇ"
         },
         {
             "key": 9,
-            "value": "Holen Sie sich Münzen"
+            "value": "ﺩﻮﻘﻧ ﺔﻓﺎﺿﺇ"
         },
         {
             "key": 10,
-            "value": "Anzeige ansehen"
+            "value": "ﻥﻼﻋﻹﺍ ﺪﻫﺎﺷ"
         },
         {
             "key": 11,
-            "value": "Kaufen Sie für echtes Geld"
+            "value": "ﺔﻴﻘﻴﻘﺣ ﺩﻮﻘﻨﺑ ﺮﺘﺷﺍ"
         },
         {
             "key": 12,
-            "value": "fortsetzen"
+            "value": "ﺭﺍﺮﻤﺘﺳﺍ"
         },
         {
             "key": 13,
-            "value": "hauptmenü"
+            "value": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ"
         },
         {
             "key": 14,
-            "value": "Level geschafft!"
+            "value": "! ﺔﻠﺣﺮﻤﻟﺍ ﺖﻬﺘﻧﺍ"
         },
         {
             "key": 15,
-            "value": "Wenn dir das Spiel gefallen hat, bewerte es bitte bei Google Play!"
+            "value": "ﻰﻠﻋ ﺔﺒﻌﻠﻟﺍ ﻢﻴﻗ !ﺮﺠﺘﻤﻟﺍ"
         },
         {
             "key": 16,
-            "value": "Bewertung"
+            "value": "ﻡّﻴﻗ"
         },
         {
             "key": 18,
-            "value": "Später"
+            "value": "ًﺎﻘﺣﻻ"
         },
         {
             "key": 17,
-            "value": "Nie"
+            "value": "ًﺍﺪﺑﺃ"
         },
         {
             "key": 19,
-            "value": "Einwilligung zur Datenerhebung"
+            "value": "ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﺔﻘﻓﺍﻮﻣ"
         },
         {
             "key": 20,
-            "value": "Personalisierte Werbung"
+            "value": "ﺔﻴﺼﺨﺷ ﺕﺎﻧﻼﻋﺇ"
         },
         {
             "key": 21,
-            "value": "Ermöglichen Sie AD-Netzwerken, gesammelte Daten zu verwenden und personalisierte Werbung anzuzeigen"
+            "value": "ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﻼﻋﻹﺍ ﺭﺎﻬﻇﺇﻭ ﺎﻬﻌﻤﺟ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻧﻼﻋﻹﺍ ﺕﺎﻜﺒﺸﻟ ﺡﺎﻤﺴﻟﺍ"
         },
         {
             "key": 22,
-            "value": "Ja"
+            "value": "ﻢﻌﻧ"
         },
         {
             "key": 23,
-            "value": "Nein"
+            "value": "ﻻ"
         },
         {
             "key": 24,
-            "value": "Sieht so aus, als hättest du bessere Fortschritte!"
+            "value": "!ﻞﻀﻓﺃ ﻡﺪﻘﺗ ﻥﺃ ﻦﻜﻤﻳ"
         },
         {
             "key": 25,
-            "value": "Möchten Sie es laden?"
+            "value": "؟ﻪﻠﻴﻤﺤﺗ ﺪﻳﺮﺗ ﻞﻫ"
         },
         {
             "key": 26,
-            "value": "Hallo! Um Sie wissen zu lassen, verwenden wir Ihre Spiel- und Gerätedaten mit Ihrer Zustimmung, um unser Spiel zu verbessern!"
+            "value": "!ﺎﻨﺘﺒﻌﻟ ﻦﻴﺴﺤﺘﻟ ﻚﺘﻘﻓﺍﻮﻤﺑ ﺯﺎﻬﺠﻟﺍﻭ ﺐﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻡﺪﺨﺘﺴﻧ ﻦﺤﻧ ، ﻚﻣﻼﻋﻹ ﻂﻘﻓ !ﺎﺒﺣﺮﻣ"
         },
         {
             "key": 27,
-            "value": "Möchten Sie, dass wir Ihnen relevante Werbung präsentieren, die zu Ihren Interessen passt?"
+            "value": "؟ﻚﺗﺎﻣﺎﻤﺘﻫﺍ ﺐﺳﺎﻨﺗ ﺔﻠﺻ ﺕﺍﺫ ﺕﺎﻧﻼﻋﺇ ﻚﻟ ﻡﺪﻘﻧ ﻥﺃ ﺎﻨﻣ ﺪﻳﺮﺗ ﻞﻫ"
         },
         {
             "key": 28,
-            "value": "Bestätigen"
+            "value": "ﻖﻓﺍﻭﺃ"
         },
         {
             "key": 29,
-            "value": "Mehr erfahren"
+            "value": "ﺪﻳﺰﻤﻟﺍ"
         },
         {
             "key": 30,
-            "value": "Entfernen Sie die falsche Antwort"
+            "value": "ﺔﺌﻃﺎﺧ ﺔﺑﺎﺟﺇ ﻑﺬﺣ"
         },
         {
             "key": 31,
-            "value": "Entfernen Sie zwei Antworten"
+            "value": "ﺄﻄﺧ ﻦﻴﺘﺑﺎﺟﺇ ﻑﺬﺣ"
         },
         {
             "key": 32,
-            "value": "Chance zum Fehler"
+            "value": "ﺄﻄﺨﻠﻟ ﺔﺻﺮﻓ"
         },
         {
             "key": 33,
-            "value": "Bitte hilf mir, das Level zu beenden!"
+            "value": "!ﻯﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﻛﻹ ﻲﻧﺪﻋﺎﺳ"
         },
         {
             "key": 34,
-            "value": "Hilfe von Freunden"
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻦﻣ ﺓﺪﻋﺎﺴﻣ"
         },
         {
             "key": 35,
-            "value": "Frag Freunde"
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻝﺄﺳﺇ"
         },
         {
             "key": 36,
-            "value": "Wetten"
+            "value": "ﻦﻫﺍﺭ"
         },
         {
             "key": 37,
-            "value": "Verwenden Sie Hinweise, wenn Sie nicht weiterkommen!"
+            "value": "ﻚﺘﻬﺟﺍﻭ ﺍﺫﺇ ﺕﺎﺤﻴﻤﻠﺗ ﻡﺪﺨﺘﺳﺍ !ﺔﻠﻜﺸﻣ"
         },
         {
             "key": 38,
-            "value": "Tippen Sie auf die Nummer, um sie zu löschen. Wischen Sie, um alle Zahlen zu löschen."
+            "value": "ﻪﺤﺴﻤﻟ ﻢﻗﺮﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ"
         },
         {
             "key": 39,
-            "value": "Kratzen Sie den Film, um das Bild zu enthüllen!"
+            "value": "!ﺓﺭﻮﺼﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﻂﺸﻛﺃ"
         },
         {
             "key": 40,
-            "value": "Tippen Sie hier, um das Bild klarer zu machen. Benötigt Gold!"
+            "value": "!ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺍًﺣﻮﺿﻭ ﺮﺜﻛﺃ ﺓﺭﻮﺼﻟﺍ ﻞﻌﺠﻟ ﺍﺬﻫ ﻕﻮﻓ ﺮﻘﻧﺍ"
         },
         {
             "key": 41,
-            "value": "Tippen Sie auf das Bild, um es deutlicher zu machen. Benötigt Gold!"
+            "value": "!ﺩﻮﻘﻧ ﻒﻠﻜﺗ ﺮﺜﻛﺃ ﺡﻮﺿﻮﻟ ﺮﻘﻧﺃ"
         },
         {
             "key": 42,
-            "value": "Tippen Sie darauf, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+            "value": "!ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﺔﻴﻧﺎﺜﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﻂﻐﺿﺍ .ﺐﻳﻮﺼﺘﻟﺍ ﺀﺪﺒﻟ ﺍﺬﻫ ﻰﻠﻋ ﻂﻐﺿﺍ"
         },
         {
             "key": 43,
-            "value": "Tippen Sie auf den Bereich, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+            "value": ".ﻕﻼﻃﻺﻟ ﻢﺛ ﺐﻳﻮﺼﺘﻠﻟﺮﻘﻧﺃ !ﺩﻮﻘﻧ ﻒﻠﻜﺗ"
         },
         {
             "key": 44,
-            "value": "Tippen Sie hier, um nützliche Informationen zur Aufgabe zu erhalten!"
+            "value": "!ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻘﻧﺍ"
         },
         {
             "key": 45,
-            "value": "Wie schwierig ist diese Aufgabe? Machen Sie eine richtige Wette!"
+            "value": "؟ﺔﻤﻬﻤﻟﺍ ﺔﺑﻮﻌﺻ ﻯﺪﻣ ﺎﻣ !ﺢﻴﺤﺻ ﻥﺎﻫﺮﺑ ﻢﻗ"
+        },
+        {
+            "key": 46,
+            "value": "ﻯﺮﺧﻷﺍ ﺎﻨﺑﺎﻌﻟﺃ"
+        },
+        {
+            "key": 47,
+            "value": "ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ"
         }
     ],
     "subCategories": [],
@@ -3215,15 +3075,15 @@
         55,
         56,
         57,
-        48,
         49,
-        50,
-        51,
-        52,
         53,
-        54,
+        57,
         55,
+        51,
         56,
-        57
+        50,
+        52,
+        54,
+        48
     ]
 }

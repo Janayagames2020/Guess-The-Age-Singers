@@ -1,0 +1,3229 @@
+{
+    "tasksData": [
+        {
+            "name": "Choose the right age",
+            "localizedName": "Wählen Sie das richtige Alter",
+            "gameType": 5,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "28",
+                    "imageText": "Selena Gomez",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "23",
+                        "24",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "42",
+                    "imageText": "Luis Fonsi",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "37",
+                        "39",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "32",
+                    "imageText": "Adele",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "33",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "35",
+                    "imageText": "Bruno Mars",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "33",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "51",
+                    "imageText": "Jennifer lopez",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "48",
+                        "52"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "73",
+                    "imageText": "Elton John",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "65",
+                        "68",
+                        "70"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "36",
+                    "imageText": "Katy Perry",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "31",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "28",
+                    "imageText": "Nick Jonas",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "29",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "40",
+                    "imageText": "Christina Aguilera",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "37",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "43",
+                    "imageText": "Daddy Yankee",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "44",
+                        "46"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "32",
+                    "imageText": "Rihanna",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "33",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "18",
+                    "imageText": "MattyBRaps",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "19",
+                        "20",
+                        "21"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "23",
+                    "imageText": "Zara Larsson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "24",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "31",
+                    "imageText": "Jason Derulo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "32",
+                        "34"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "27",
+                    "imageText": "Meghan Trainor",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "24",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "33",
+                    "imageText": "Wiz Khalifa",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "30",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "28",
+                    "imageText": "Demi Lovato",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "29",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "39",
+                    "imageText": "Justin Timberlake",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "35",
+                        "37"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "39",
+                    "imageText": "Britney Spears",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "34",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "26",
+                    "imageText": "Justin Bieber",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "23",
+                        "22",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "50",
+                    "imageText": "Mariah Carey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "47",
+                        "51"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "31",
+                    "imageText": "Prince Royce",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "28",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "29",
+                    "imageText": "Jessie Reyez",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "27",
+                        "30",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "39",
+                    "imageText": "Nicky Jam",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "37",
+                        "38"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "23",
+                    "imageText": "Camila cabello",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "24",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "43",
+                    "imageText": "Kanye West",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "39",
+                        "40",
+                        "42"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "29",
+                    "imageText": "Betty Who",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "26",
+                        "27",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "28",
+                    "imageText": "Zayn Malik",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "24",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "36",
+                    "imageText": "Avril Lavigne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "33",
+                        "37"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "28",
+                    "imageText": "Travis Scott",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "29",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "43",
+                    "imageText": "Shakira",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "39",
+                        "41"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "25",
+                    "imageText": "Troye Sivan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "21",
+                        "23"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "29",
+                    "imageText": "Anne Marie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "26",
+                        "30",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "46",
+                    "imageText": "Robbie Williams",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "43",
+                        "44",
+                        "45"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "34",
+                    "imageText": "Lady Gaga",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "31",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "53",
+                    "imageText": "David Guetta",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "48",
+                        "50",
+                        "54"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "29",
+                    "imageText": "Karol G",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "27",
+                        "28",
+                        "30"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "25",
+                    "imageText": "Post Malone",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "23",
+                        "26",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "38",
+                    "imageText": "Nicki Minaj",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "35",
+                        "39"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "45",
+                    "imageText": "Dierks Bentley",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "43",
+                        "44"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "30",
+                    "imageText": "Iggy Azalea",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "29"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "45",
+                    "imageText": "Mark Ronson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "42",
+                        "46"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "39",
+                    "imageText": "beyonce",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "40"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "27",
+                    "imageText": "Kane Brown",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "31",
+                    "imageText": "Bebe Rexha",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "26",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "42",
+                    "imageText": "John Legend",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "41",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "28",
+                    "imageText": "Miley Cyrus",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "29",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "36",
+                    "imageText": "Calvin Harris",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "33",
+                        "34"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "55",
+                    "imageText": "Shania Twain",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "48",
+                        "50",
+                        "53"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "41",
+                    "imageText": "Flo Rida",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "42",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "23",
+                    "imageText": "Jorja Smith",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "20",
+                        "21"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "22",
+                    "imageText": "Shawn Mendes",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "21",
+                        "23",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "39",
+                    "imageText": "Alicia Keys",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "38"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "32",
+                    "imageText": "Mike Posner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "31",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "24",
+                    "imageText": "Lorde",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "27",
+                        "29"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "29",
+                    "imageText": "Ed Sheeran",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "32",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "33",
+                    "imageText": "Mollie King",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "31",
+                        "30"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "42",
+                    "imageText": "Usher",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "43",
+                        "44"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "34",
+                    "imageText": "Amy Shark",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "36",
+                        "37"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "43",
+                    "imageText": "Pusha T",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "44",
+                        "45"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "34",
+                    "imageText": "Christina Perri",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "35",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "25",
+                    "imageText": "Swae Lee",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "21",
+                        "23"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "24",
+                    "imageText": "Lauren Jauregui",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "25",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "39",
+                    "imageText": "Willy William",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "42",
+                        "44"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "17",
+                    "imageText": "Bhad Bhabiei",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "18",
+                        "19"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "37",
+                    "imageText": "Macklemore",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "38"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "31",
+                    "imageText": "Jordin Sparks",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "34",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "44",
+                    "imageText": "Blake Shelton",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "43",
+                        "45",
+                        "46"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "22",
+                    "imageText": "Daya",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "21",
+                        "24",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "33",
+                    "imageText": "Meek Mill",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "34",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "38",
+                    "imageText": "Kelly Clarkson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "33",
+                        "40"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "27",
+                    "imageText": "Ben Platt",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "40",
+                    "imageText": "Jasmin Wagner",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "36",
+                        "39"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "25",
+                    "imageText": "Daniel Caesar",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "26",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "34",
+                    "imageText": "Natti Natasha",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "30",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "29",
+                    "imageText": "Dermot Kennedy",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "27",
+                        "28",
+                        "30"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "35",
+                    "imageText": "Lana Del Rey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "31",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "32",
+                    "imageText": "James Arthur",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "31",
+                        "34",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "33",
+                    "imageText": "Tove Lo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "31",
+                        "34"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "23",
+                    "imageText": "Bazzi",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "24",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "25",
+                    "imageText": "Sofia Reyes",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "22",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "35",
+                    "imageText": "Ty Dolla $ign",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "32",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "26",
+                    "imageText": "Maggie Rogers",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "27",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "42",
+                    "imageText": "Chris Stapleton",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "43",
+                        "41"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "32",
+                    "imageText": "Jhene Aiko",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "31",
+                        "33",
+                        "34"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "26",
+                    "imageText": "Alec Benjamin",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "22",
+                        "23"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "34",
+                    "imageText": "Ellie Goulding",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "31",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "30",
+                    "imageText": "Luke Combs",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "27",
+                        "28",
+                        "29"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "19",
+                    "imageText": "Billie Eilish",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "18",
+                        "20",
+                        "21"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "33",
+                    "imageText": "Kendrick Lamar",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "34",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "30",
+                    "imageText": "Blackbear",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "31",
+                        "32"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "37",
+                    "imageText": "Miranda Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "34",
+                        "33",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "45",
+                    "imageText": "50 Cent",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "44",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "26",
+                    "imageText": "Ella Mai",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "23",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "22",
+                    "imageText": "Khalid",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "21",
+                        "23",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "30",
+                    "imageText": "Maren Morris",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "32",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "20",
+                    "imageText": "Lil Pump",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "19",
+                        "21",
+                        "22"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "32",
+                    "imageText": "Banks",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "31",
+                        "33",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "55",
+                    "imageText": "Dr Dre",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "54",
+                        "56",
+                        "57"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "29",
+                    "imageText": "Hayley Kiyoko",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "27",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "49",
+                    "imageText": "Snoop Dogg",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "52",
+                        "53"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "28",
+                    "imageText": "Charli XCX",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "25",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "71",
+                    "imageText": "Lionel Richie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "68",
+                        "72",
+                        "73"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "30",
+                    "imageText": "SZA",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "29",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "27",
+                    "imageText": "Liam Payne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "31",
+                    "imageText": "Mary Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "33",
+                        "35"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "78",
+                    "imageText": "Paul McCartney",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "75",
+                        "79",
+                        "81"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "27",
+                    "imageText": "rosalía",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "26",
+                        "24",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "45",
+                    "imageText": "Michael Buble",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "40",
+                        "42"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "21",
+                    "imageText": "Madison Beer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "23",
+                        "25",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "40",
+                    "imageText": "Nick Carter",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "38",
+                        "39",
+                        "41"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "31",
+                    "imageText": "Jess Glynne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "32",
+                        "30",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "36",
+                    "imageText": "Chris Lane",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "37",
+                        "38"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "50",
+                    "imageText": "Mary J. Blige",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "48",
+                        "49",
+                        "51"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "41",
+                    "imageText": "The Game",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "42",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "37",
+                    "imageText": "Miranda Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "38",
+                        "39"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "26",
+                    "imageText": "Harry Styles",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "23",
+                        "24",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "41",
+                    "imageText": "Pink",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "40",
+                        "44",
+                        "46"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "29",
+                    "imageText": "Louis Tomlinson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "30",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "24",
+                    "imageText": "Normani",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "23",
+                        "25"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "45",
+                    "imageText": "DJ Khaled",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "47",
+                        "48"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "28",
+                    "imageText": "Tori Kelly",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "25",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "43",
+                    "imageText": "Ludacris",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "44",
+                        "45"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "52",
+                    "imageText": "Celine Dion",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "49",
+                        "53",
+                        "55"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "27",
+                    "imageText": "George Ezra",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "25",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "21",
+                    "imageText": "Noah Cyrus",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "19",
+                        "20",
+                        "22"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "26",
+                    "imageText": "Maluma",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "28",
+                        "29"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "33",
+                    "imageText": "Kesha",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "34",
+                        "36"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "38",
+                    "imageText": "Lil Wayne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "36",
+                        "37",
+                        "39"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "28",
+                    "imageText": "Cardi B",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "26",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "49",
+                    "imageText": "Ricky Martin",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "47",
+                        "46",
+                        "48"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "35",
+                    "imageText": "Janelle Monae",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "33",
+                        "34",
+                        "31"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "52",
+                    "imageText": "Marc Anthony",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "50",
+                        "51",
+                        "53"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "26",
+                    "imageText": "Halsey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "23",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "43",
+                    "imageText": "John Mayer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "41",
+                        "42",
+                        "44"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "25",
+                    "imageText": "Dua Lipa",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "20",
+                        "22",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "34",
+                    "imageText": "Drake",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "35",
+                        "37",
+                        "39"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "27",
+                    "imageText": "Perrie Edwards",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "23",
+                        "26"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "28",
+                    "imageText": "Sam Smith",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "29",
+                        "31",
+                        "33"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "25",
+                    "imageText": "Melanie Martinez",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "24",
+                        "22",
+                        "23"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "29",
+                    "imageText": "Charlie Puth",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "28",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "45",
+                    "imageText": "Sia Furler",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "42",
+                        "46",
+                        "44"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "31",
+                    "imageText": "Joe Jonas",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30",
+                        "28",
+                        "29"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "26",
+                    "imageText": "Ava Max",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "23",
+                        "24"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "28",
+                    "imageText": "ozuna",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "25",
+                        "24",
+                        "27"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "23",
+                    "imageText": "Becky G",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "20",
+                        "21"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "45",
+                    "imageText": "Enrique Iglesias",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "44",
+                        "42",
+                        "43"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "27",
+                    "imageText": "Ariana Grande",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "22",
+                        "24",
+                        "28"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "48",
+                    "imageText": "Eminem",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "45",
+                        "47",
+                        "46"
+                    ],
+                    "cost": 0
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "31",
+                    "imageText": "Taylor Swift",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "28",
+                        "29",
+                        "30"
+                    ],
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Guess The Age",
+            "localizedName": "Erraten Sie das Alter",
+            "gameType": 4,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "48",
+                    "imageText": "Eminem",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "31",
+                    "imageText": "Taylor Swift",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "45",
+                    "imageText": "Enrique Iglesias",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "27",
+                    "imageText": "Ariana Grande",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "39",
+                    "imageText": "Pitbull",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "23",
+                    "imageText": "Becky G",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "47",
+                    "imageText": "Pharrell Williams",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "21",
+                    "imageText": "Sabrina Carpenter",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "31",
+                    "imageText": "Joe Jonas",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "52",
+                    "imageText": "Kylie Minogue",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "28",
+                    "imageText": "ozuna",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "62",
+                    "imageText": "Madonna",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "29",
+                    "imageText": "Charlie Puth",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "32",
+                    "imageText": "Lizzo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "35",
+                    "imageText": "J Balvin",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "26",
+                    "imageText": "Ava Max",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "35",
+                    "imageText": "Blanco Brown",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "32",
+                    "imageText": "Kacey Musgraves",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "24",
+                    "imageText": "Lewis Capaldi",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "37",
+                    "imageText": "Carrie Underwood",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "34",
+                    "imageText": "Drake",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "25",
+                    "imageText": "Melanie Martinez",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "31",
+                    "imageText": "Chris Brown",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "45",
+                    "imageText": "Sia Furler",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "27",
+                    "imageText": "Niall Horan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "39",
+                    "imageText": "Kelly Rowland",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "46",
+                    "imageText": "James Blunt",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "25",
+                    "imageText": "Dua Lipa",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "52",
+                    "imageText": "Marc Anthony",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "24",
+                    "imageText": "Sigrid",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "38",
+                    "imageText": "Lil Wayne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "52",
+                    "imageText": "Celine Dion",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "28",
+                    "imageText": "Sam Smith",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "29",
+                    "imageText": "Ari Lennox",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "43",
+                    "imageText": "John Mayer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "21",
+                    "imageText": "Noah Cyrus",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "49",
+                    "imageText": "Ricky Martin",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "27",
+                    "imageText": "Perrie Edwards",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "45",
+                    "imageText": "DJ Khaled",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "28",
+                    "imageText": "Cardi B",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "27",
+                    "imageText": "George Ezra",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "26",
+                    "imageText": "Halsey",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "26",
+                    "imageText": "Harry Styles",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "33",
+                    "imageText": "Kesha",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "87",
+                    "imageText": "Willie Nelson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "43",
+                    "imageText": "Ludacris",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "30",
+                    "imageText": "Rita Ora",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "48",
+                    "imageText": "Sean Paul",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "24",
+                    "imageText": "Normani",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "30",
+                    "imageText": "The Weeknd",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "28",
+                    "imageText": "Tori Kelly",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "21",
+                    "imageText": "Lil Nas X",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "35",
+                    "imageText": "Janelle Monae",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "31",
+                    "imageText": "G-Easy",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "41",
+                    "imageText": "Pink",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "51",
+                    "imageText": "Sean Combs",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "35",
+                    "imageText": "Carly Rae Jepsen",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "44",
+                    "imageText": "Luke Bryan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "21",
+                    "imageText": "Madison Beer",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "71",
+                    "imageText": "Lionel Richie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "27",
+                    "imageText": "rosalía",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "36",
+                    "imageText": "Chris Lane",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "28",
+                    "imageText": "Charli XCX",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "29",
+                    "imageText": "Louis Tomlinson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "50",
+                    "imageText": "Mary J. Blige",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "28",
+                    "imageText": "Pink Sweats",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "30",
+                    "imageText": "SZA",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "45",
+                    "imageText": "Michael Buble",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "37",
+                    "imageText": "Miranda Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "31",
+                    "imageText": "Jess Glynne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "49",
+                    "imageText": "Snoop Dogg",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "31",
+                    "imageText": "Mary Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "31",
+                    "imageText": "Justin Moore",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "29",
+                    "imageText": "Hayley Kiyoko",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "55",
+                    "imageText": "Dr Dre",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "23",
+                    "imageText": "Gabriella Wilson",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "40",
+                    "imageText": "Nick Carter",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "50",
+                    "imageText": "Chely Wright",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "41",
+                    "imageText": "The Game",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "32",
+                    "imageText": "Banks",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "26",
+                    "imageText": "Maluma",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "63",
+                    "imageText": "Gloria Estefan",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "20",
+                    "imageText": "Lil Pump",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "30",
+                    "imageText": "Maren Morris",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "26",
+                    "imageText": "Lauv",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "27",
+                    "imageText": "Liam Payne",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "24",
+                    "imageText": "Alessia Cara",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "78",
+                    "imageText": "Paul McCartney",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "26",
+                    "imageText": "Ella Mai",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "44",
+                    "imageText": "Rick Ross",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "19",
+                    "imageText": "Billie Eilish",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "33",
+                    "imageText": "Brendon Urie",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "37",
+                    "imageText": "Miranda Lambert",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "45",
+                    "imageText": "50 Cent",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "26",
+                    "imageText": "Maggie Rogers",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "28",
+                    "imageText": "6lack",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "34",
+                    "imageText": "Ellie Goulding",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "22",
+                    "imageText": "Khalid",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "25",
+                    "imageText": "Sofia Reyes",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "29",
+                    "imageText": "Quavo",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "cost": 20
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "abspielen"
+        },
+        {
+            "key": 1,
+            "value": "info"
+        },
+        {
+            "key": 2,
+            "value": "verlassen"
+        },
+        {
+            "key": 3,
+            "value": "zurück"
+        },
+        {
+            "key": 4,
+            "value": "Machen Sie sich bereit, einige Bildrätsel zu lösen! Steckenbleiben? Verwenden Sie unterschiedliche Hinweise! Verdiene Münzen, indem du Aufgaben erledigst oder kurze ADs ansiehst! genießen!"
+        },
+        {
+            "key": 5,
+            "value": "Verschlossen"
+        },
+        {
+            "key": 6,
+            "value": "Einen Zahl Öffnen"
+        },
+        {
+            "key": 7,
+            "value": "Zahlen entfernen"
+        },
+        {
+            "key": 8,
+            "value": "Eine Antwort bekommen"
+        },
+        {
+            "key": 9,
+            "value": "Holen Sie sich Münzen"
+        },
+        {
+            "key": 10,
+            "value": "Anzeige ansehen"
+        },
+        {
+            "key": 11,
+            "value": "Kaufen Sie für echtes Geld"
+        },
+        {
+            "key": 12,
+            "value": "fortsetzen"
+        },
+        {
+            "key": 13,
+            "value": "hauptmenü"
+        },
+        {
+            "key": 14,
+            "value": "Level geschafft!"
+        },
+        {
+            "key": 15,
+            "value": "Wenn dir das Spiel gefallen hat, bewerte es bitte bei Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "Bewertung"
+        },
+        {
+            "key": 18,
+            "value": "Später"
+        },
+        {
+            "key": 17,
+            "value": "Nie"
+        },
+        {
+            "key": 19,
+            "value": "Einwilligung zur Datenerhebung"
+        },
+        {
+            "key": 20,
+            "value": "Personalisierte Werbung"
+        },
+        {
+            "key": 21,
+            "value": "Ermöglichen Sie AD-Netzwerken, gesammelte Daten zu verwenden und personalisierte Werbung anzuzeigen"
+        },
+        {
+            "key": 22,
+            "value": "Ja"
+        },
+        {
+            "key": 23,
+            "value": "Nein"
+        },
+        {
+            "key": 24,
+            "value": "Sieht so aus, als hättest du bessere Fortschritte!"
+        },
+        {
+            "key": 25,
+            "value": "Möchten Sie es laden?"
+        },
+        {
+            "key": 26,
+            "value": "Hallo! Um Sie wissen zu lassen, verwenden wir Ihre Spiel- und Gerätedaten mit Ihrer Zustimmung, um unser Spiel zu verbessern!"
+        },
+        {
+            "key": 27,
+            "value": "Möchten Sie, dass wir Ihnen relevante Werbung präsentieren, die zu Ihren Interessen passt?"
+        },
+        {
+            "key": 28,
+            "value": "Bestätigen"
+        },
+        {
+            "key": 29,
+            "value": "Mehr erfahren"
+        },
+        {
+            "key": 30,
+            "value": "Entfernen Sie die falsche Antwort"
+        },
+        {
+            "key": 31,
+            "value": "Entfernen Sie zwei Antworten"
+        },
+        {
+            "key": 32,
+            "value": "Chance zum Fehler"
+        },
+        {
+            "key": 33,
+            "value": "Bitte hilf mir, das Level zu beenden!"
+        },
+        {
+            "key": 34,
+            "value": "Hilfe von Freunden"
+        },
+        {
+            "key": 35,
+            "value": "Frag Freunde"
+        },
+        {
+            "key": 36,
+            "value": "Wetten"
+        },
+        {
+            "key": 37,
+            "value": "Verwenden Sie Hinweise, wenn Sie nicht weiterkommen!"
+        },
+        {
+            "key": 38,
+            "value": "Tippen Sie auf die Nummer, um sie zu löschen. Wischen Sie, um alle Zahlen zu löschen."
+        },
+        {
+            "key": 39,
+            "value": "Kratzen Sie den Film, um das Bild zu enthüllen!"
+        },
+        {
+            "key": 40,
+            "value": "Tippen Sie hier, um das Bild klarer zu machen. Benötigt Gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tippen Sie auf das Bild, um es deutlicher zu machen. Benötigt Gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tippen Sie darauf, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tippen Sie auf den Bereich, um mit dem Zielen zu beginnen. Tippe zum zweiten Mal darauf, um zu schießen. Benötigt Gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tippen Sie hier, um nützliche Informationen zur Aufgabe zu erhalten!"
+        },
+        {
+            "key": 45,
+            "value": "Wie schwierig ist diese Aufgabe? Machen Sie eine richtige Wette!"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+    ]
+}
